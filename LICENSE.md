@@ -1,4 +1,4 @@
-#  
+#  exclusive Script for kaizen offers the most advanced kaizen Script, with auto-heal and auto-collect. Perfect for dominating any match.
 
 
 
